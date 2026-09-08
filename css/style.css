@@ -47,6 +47,18 @@ section {
     background-color: #F7934C;
 }
 
+.bg-yellow {
+    background-color: #FFF5B2;
+}
+
+.bg-maroon {
+    background-color: #5D0101;
+}
+
+.bg-grey {
+    background-color: #545E56;
+}
+
 .smimage {
     width: 300px;
     height: auto;
