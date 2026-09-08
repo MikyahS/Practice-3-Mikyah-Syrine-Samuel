@@ -43,12 +43,8 @@ section {
     padding: 16px;
 }
 
-.bg-red {
-    background-color: #6A1B1B;
-}
-
 .bg-yellow {
-    background-color: #F31F1F;
+    background-color: #38050F;
 }
 
 .bg-maroon {
@@ -56,7 +52,7 @@ section {
 }
 
 .bg-red {
-    background-color: #BD0000;
+    background-color: #6A1B1B;
     color: #F6F6F4;
 }
 
