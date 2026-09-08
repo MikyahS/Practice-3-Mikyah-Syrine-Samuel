@@ -51,3 +51,7 @@ section {
     width: 300px;
     height: auto;
 }
+
+footer {
+    grid-column: span 5;
+}
