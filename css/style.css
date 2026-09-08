@@ -60,6 +60,10 @@ section {
     color: #F6F6F4;
 }
 
+.bg-black {
+    background-color: #111111;
+}
+
 .smimage {
     width: 300px;
     height: auto;
