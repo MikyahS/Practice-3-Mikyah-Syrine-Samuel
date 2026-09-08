@@ -46,3 +46,8 @@ section {
 .bg-red {
     background-color: #F7934C;
 }
+
+.smimage {
+    width: 300px;
+    height: auto;
+}
